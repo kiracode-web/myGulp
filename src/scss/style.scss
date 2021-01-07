@@ -1,0 +1,8 @@
+// Include all your style files to  style.scss, not to index.html
+// Start settings
+@import "start-settings";
+@import "project-settings";
+// Styles
+@import "index";
+// Media
+@import "media";
